@@ -1,4 +1,4 @@
-﻿namespace BlazorWebApp8.Entity
+﻿namespace BlazorWebApp8.Shared.Entity
 {
     public class Game
     {
